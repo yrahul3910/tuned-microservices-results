@@ -11,6 +11,8 @@ The full result numbers for each approach, both tuned and untuned, can be found 
 * [FoSCI](https://github.com/yrahul3910/tuned-microservices-results/blob/main/FoSCI.md)
 * [MEM](https://github.com/yrahul3910/tuned-microservices-results/blob/main/MEM.md)
 
+The improvements over the baselines, expressed as percentages, can be found [here](https://github.com/yrahul3910/tuned-microservices-results/blob/main/Improvements.md)
+
 ## Runtimes
 
 The runtime chart for a single run of each approach is below:
